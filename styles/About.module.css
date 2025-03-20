@@ -1,0 +1,9 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+ .textCenter{text-align: center;} 
+ .pY40{padding:40px 0px;}
+ .pageText p{margin-bottom: 20px;line-height: 25px; }
+
